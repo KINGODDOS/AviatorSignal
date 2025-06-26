@@ -78,7 +78,7 @@ const sliderPrevBtn = document.getElementById('sliderPrevBtn');
 const sliderNextBtn = document.getElementById('sliderNextBtn');
 const adminSliderImageInputsContainer = document.getElementById('adminSliderImageInputsContainer');
 
-const ADMIN_KEY = "loveshamim";
+const ADMIN_KEY = "S99";
 let currentConsoleLine = null;
 let selectedPaymentMethod = null;
 let currentSettings = { payment: {}, app: { games: {}, sliderImages: [] } };
